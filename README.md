@@ -4,12 +4,12 @@ Ce répertoire contient une collection de travaux pratiques réalisés en utilis
 
 ## Contenu
 
-- [TP1 : Introduction à SQL](TP1.sql)
-- [TP2 : Curseur, Exceptions et Trigger](TP2.sql)
-- [TP3 : Types composites](TP3.sql)
-- [TP4 : Fonctions](TP4.sql)
-- [TP5 : Transactions](TP5.sql)
-- [CC : Contrôle continu](CC_PaulLemonnier.sql)
+- [TP1](TP1.sql) : Introduction à SQL
+- [TP2](TP2.sql) : Curseur, Exceptions et Trigger
+- [TP3](TP3.sql) : Types composites
+- [TP4](TP4.sql) : Fonctions
+- [TP5](TP5.sql) : Transactions
+- [CC](CC_PaulLemonnier.sql) : Contrôle continu
 
 Dans chaque fichier de TP se trouve des implémentations des divers sujets et concepts important en base de données.   
 
